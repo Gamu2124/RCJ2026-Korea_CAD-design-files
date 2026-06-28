@@ -2,16 +2,6 @@
 
 This repository contains the CAD design files for RoboCup Junior 2026.
 
-## 📱 Download Repository
-
-If you are viewing this document on paper or another device, scan the QR code below to open this repository directly.
-
-<p align="center">
-  <img src="qr.png" alt="Repository QR Code" width="220">
-</p>
-
----
-
 ## Why are the files split?
 
 GitHub has a maximum file size limit of **100 MB**.
